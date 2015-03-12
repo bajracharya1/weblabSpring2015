@@ -13,3 +13,18 @@ color: #ccc;
     background-color: pink;
     width: 100px;
 }
+a:link{
+    color:orange;
+}
+a:visited{
+    color:pink;
+    text-decoration: none;
+    font-style: italic;
+}
+a:hover{
+    background-color:green;
+}
+
+a:active{
+    background-color:red;
+}
