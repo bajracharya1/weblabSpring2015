@@ -1,0 +1,25 @@
+#specials {
+    border-style: solid;
+    border-color: red;
+    border-radius: 12px;
+
+
+}
+
+.specialDishes thead {
+    color: red;
+}
+.lunchSpecials h1 {
+    color: red;
+}
+
+.lunchSpecials p {
+    color: red;
+}
+.leftColumn{
+    width: 40%;
+}
+
+.spicy {
+    color: red;
+}
